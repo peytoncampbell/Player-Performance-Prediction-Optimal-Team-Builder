@@ -20,5 +20,10 @@ In modern baseball analytics, **WAR (Wins Above Replacement)** is one of the mos
 
 My goal was to use machine learning to analyze OOTP’s artificial player ratings—such as Contact, Power, Defense, Speed, etc.—and determine which ones most strongly influence WAR. This would allow me to identify underrated or overrated players and build an optimized team for competitive play in Perfect Team mode.
 
-Modeling:
+##Modeling:
+
+##Update Ideas:
+-Optimal batting linuep
+-Optimal pitching Rotation
+
 
